@@ -1,0 +1,78 @@
+#app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.rotate-cards .swiper {
+  width: 240px;
+  height: 330px;
+}
+
+.rotate-cards .swiper-slide {
+  display: flex;
+  align-items: start;
+  justify-content: center;
+  border-radius: 18px;
+  font-size: 22px;
+  font-weight: bold;
+  color: #fff;
+  background-color: rgb(107 144 201);
+  position: relative;
+}
+.rotate-cards .swiper-slide img {
+  width: 219px;
+  margin-top: 11px;
+  margin-left: 10px;
+}
+/* .swiper-slide:nth-child(1n) {
+  background-image: url("../../assets/images/programs/program1.jpg");
+} */
+
+/* .swiper-slide:nth-child(2n) {
+  background-image: url("../../assets/images/programs/program2.jpg");
+}
+
+.swiper-slide:nth-child(3n) {
+  background-image: url("../../assets/images/programs/program3.jpg");
+}
+
+.swiper-slide:nth-child(4n) {
+  background-image: url("../../assets/images/programs/program4.jpg");
+}
+
+.swiper-slide:nth-child(5n) {
+  background-image: url("../../assets/images/programs/program5.jpg");
+}
+
+.swiper-slide:nth-child(6n) {
+  background-image: url("../../assets/images/programs/program6.jpeg");
+}
+
+.swiper-slide:nth-child(7n) {
+  background-image: url("../../assets/images/programs/program7.jpg");
+}
+
+.swiper-slide:nth-child(8n) {
+  background-image: url("../../assets/images/programs/program8.jpg");
+}
+
+.swiper-slide:nth-child(9n) {
+  background-image: url("../../assets/images/programs/program9.jpg");
+}
+
+.swiper-slide:nth-child(10n) {
+  background-image: url("../../assets/images/programs/program10.jpg");
+}
+.swiper-slide:nth-child(11n) {
+  background-image: url("../../assets/images/programs/program11.jpg");
+}
+.swiper-slide:nth-child(12n) {
+  background-image: url("../../assets/images/programs/program12.jpg");
+}
+.swiper-slide:nth-child(13n) {
+  background-image: url("../../assets/images/programs/program13.jpg");
+}
+.swiper-slide:nth-child(14n) {
+  background-image: url("../../assets/images/programs/program14.jpg");
+} */

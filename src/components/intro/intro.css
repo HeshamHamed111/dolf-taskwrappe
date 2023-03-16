@@ -1,0 +1,55 @@
+.header-image {
+  background-image: url("../../assets/images/kafd.png");
+  position: relative;
+}
+/* .programs {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(192%, -30%);
+} */
+
+.points-important {
+  width: 220px;
+  height: 120px;
+  margin-top: 40px;
+  border-radius: 15px;
+  padding: 12px;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+.points-important:hover {
+  transition: all 0.3s ease-in-out;
+  transform: scale(1.06);
+}
+.certifiacte-color {
+  box-shadow: 5px 5px 10px #cbbc7f;
+
+  background: linear-gradient(135deg, #cbbc7f 0%, #8e7729 100%);
+}
+.training-color {
+  box-shadow: 5px 5px 10px #3061a7;
+  background: linear-gradient(135deg, #3061a7 0%, #183154 100%);
+}
+.jadarat-color {
+  box-shadow: 5px 5px 10px #72a293;
+  background: linear-gradient(135deg, #72a293 0%, #2f4a3d 100%);
+}
+.navbar-without-bg {
+  background-color: transparent;
+  transition: all 0.8s ease-in-out;
+}
+.navbar-with-bg {
+  background-color: #424242;
+  opacity: 0.9;
+  transition: all 0.8s ease-in-out;
+}
+
+.logo-height {
+  transition: all 0.5s ease-in-out;
+  height: 100px;
+}
+.logo-set {
+  transition: all 0.5s ease-in-out;
+  height: 70px;
+}
